@@ -30,4 +30,5 @@ This project aims to build a movie recommendation system using content based mac
  ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
 
+## Screenshot
 ![Screenshot](https://github.com/user-attachments/assets/6819387a-1e38-4ede-a448-6c47bdff89c1)
